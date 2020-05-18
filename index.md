@@ -1,5 +1,6 @@
-# [NUBE](https://ciudaddelabogado.org) ![NUBE](https://github.com/lawyercity/web/blob/master/cloud3.png)  
+# SERVICES:
+# - [NUBE](https://ciudaddelabogado.org)  
 
-# [BUSCADOR](https://ciudaddelabogado.org:4040) ![BUSCADOR](https://github.com/lawyercity/web/blob/master/search.png)  
+# - [BUSCADOR](https://ciudaddelabogado.org:4040)  
 
-# [BLOG](https://ciudaddelabogado.org/index.php/apps/cms_pico/pico/lab) ![BLOG](https://github.com/lawyercity/web/blob/master/blog.png)  
+# - [BLOG](https://ciudaddelabogado.org/index.php/apps/cms_pico/pico/lab)
